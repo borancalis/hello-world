@@ -1,2 +1,1 @@
-# hello-world
-Hello World
+This code prints hello world
